@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Wow how great is this?!
+
+Here's some stuff about [me](/about) 
